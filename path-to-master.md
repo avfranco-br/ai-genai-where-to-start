@@ -11,7 +11,7 @@
    - [Kaggle 5dgai first edition](https://discord.gg/qVr7tzw7) / [Daily Livestreams for 5-Day Gen AI Intensive ](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
   - [What Is Generative AI? Generative AI is a tool in service of humanity](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?contextUrn=urn%3Ali%3AlearningCollection%3A7002692524989415424&u=26889090)
   - [Introduction to Artificial Intelligence (2023) Why you need to know about artificial intelligence](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-2023/why-you-need-to-know-about-artificial-intelligence?contextUrn=urn%3Ali%3AlearningCollection%3A7002692524989415424&u=26889090)
-  - [Practical Deep Learning](https://course.fast.ai/#welcome) `Serious Learning`
+  - [Practical Deep Learning](https://course.fast.ai/#welcome) 
 
 2. Prompt Engineering
 
