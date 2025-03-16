@@ -1,5 +1,8 @@
 ### Learning Journey
 
+#### Introduction
+> List of topics and recommended courses to help you on your own journey towards specialisation.
+
 1. AI / ML Foundation 
 
   - [Andrej Karpathy - Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
