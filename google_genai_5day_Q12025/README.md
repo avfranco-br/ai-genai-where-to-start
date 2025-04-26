@@ -38,8 +38,9 @@
 - To learn more head to my HuggingFace space [Talk to your Multi-Agentic Architect Partner](https://huggingface.co/spaces/avfranco/ea4all_agentic_system)<br>
 
 # **Architecture Solution**
-> **High-Level Design**
-**![Architect Demand Management Solution Design](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F17474692%2Ffaf08072c50685f22337b006f073995c%2Fea4all-demand-planning-architecture-design.png?generation=1745165211247666&alt=media)**<br>
+> **High-Level Design**<br><br>
+**![Architect Demand Management Solution Design](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F17474692%2Ffaf08072c50685f22337b006f073995c%2Fea4all-demand-planning-architecture-design.png?generation=1745165211247666&alt=media)**
+<br><br>
 **Key Components**
 * Data Sources (CSV, Dataframe, SQLite)
 * Model and Embeddings (Google Gemini-2.0-flash and text-embedding-004)
