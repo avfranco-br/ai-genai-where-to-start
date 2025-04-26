@@ -13,6 +13,8 @@ From today, I am going to start sharing notes and actionable insights from my 5-
 
 Find the first post here 🔗 [Prompt Engineering](https://github.com/avfranco-br/ai-genai-where-to-start/discussions/2)
 
+Capstone Project source code 🔗 [Architect Demand Management](https://github.com/avfranco-br/ai-genai-where-to-start/tree/main/google_genai_5day_Q12025)
+
 ## 👋 Huggingface Agents Course
 
 Course link 🔗 [Welcome Page](https://huggingface.co/learn/agents-course/unit0/introduction)
