@@ -19,6 +19,6 @@ Capstone Project source code 🔗 [Architect Demand Management](https://github.c
 
 Course link 🔗 [Welcome Page](https://huggingface.co/learn/agents-course/unit0/introduction)
 
-Capstone Project source code 🔗 [Gaia Agent Evaluation](https://github.com/avfranco-br/ai-genai-where-to-start/tree/main/smolagentscourse)
+**Capstone Project source code** 🔗 [Gaia Agent Evaluation](https://github.com/avfranco-br/ai-genai-where-to-start/tree/main/smolagentscourse)
 
 Huggingface space 🔗 [Agent Gaia Evaluation](https://huggingface.co/spaces/avfranco/hf_agents_course_gaia_evaluation)
