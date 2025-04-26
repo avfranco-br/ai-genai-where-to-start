@@ -1,0 +1,11 @@
+[project]
+name = "final-assignment-template"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.3"
+dependencies = [
+    "gradio[oauth]>=5.26.0",
+    "pandas>=2.2.3",
+    "requests>=2.32.3",
+]

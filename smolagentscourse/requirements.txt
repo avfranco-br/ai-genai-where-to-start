@@ -1,0 +1,6 @@
+gradio==5.26.0
+gradio-client==1.9.0
+pandas==2.2.3
+requests==2.32.3
+smolagents
+smolagents[litellm]
